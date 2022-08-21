@@ -1,4 +1,5 @@
 #first satge of building angular image
+#by ysfffff
 FROM node:alpine3.15 as build
 RUN mkdir -p /app
 
